@@ -1,0 +1,16 @@
+Age calculation
+ABS
+AND
+Average
+Cell
+char
+choose
+clean
+code
+comin
+concerate
+convert
+vlookup
+hlookup
+weekday
+workday
