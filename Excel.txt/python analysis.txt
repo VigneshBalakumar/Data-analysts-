@@ -1,0 +1,8 @@
+pandas
+numpy
+superised language
+semi-superised language
+machine learning algorithm
+linear regression
+natural language processing
+time series analysis
