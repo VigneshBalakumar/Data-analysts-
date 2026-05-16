@@ -1,0 +1,6 @@
+amazon
+flipkart
+Myntra
+Ajio
+Swiggy
+zomato
